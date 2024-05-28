@@ -6,7 +6,7 @@
  Languages: **English (conversational)**  
 
  ### **Summary**  
-I am an experienced Software Engineer with strong programming skills and a keen interest in technology. I am seeking a position where I can contribute to company's success and advance my career.
+I am an experienced Software Engineer with strong programming skills and a keen interest in technology. I am seeking a position where I can contribute to the company's success and advance my career.
 
 ### **Education**   
  **Bachelor in Computer Science**    
@@ -66,4 +66,50 @@ This application was developed leveraging the React Native framework to enable r
 
 ***Skill:*** React Native | Firebase | Firebase Dynamic Links| RealTime Database | Cloud Firestore | Firebase Auth
 
-    
+## TODO App using Flutter
+
+This project is a deliberate effort on my part to hone my coding skills and elevate the quality of my code. I am determined to organize the code logically and write clear and concise sentences that are easily comprehensible to all. The application was developed leveraging the Flutter framework to create a functional and user-friendly TODO app. The primary objective of this app is to help users manage their tasks efficiently.
+
+### Features
+
+- **Task Creation**
+  - Users can add new tasks with a title and optional description.
+  - Easy-to-use interface for quick task entry.
+
+### Technical Stack
+
+- **Frontend**
+  - Flutter for building cross-platform mobile applications.
+  - Provider for state management to ensure a responsive and seamless user experience.
+
+- **Database**
+  - Use of a scalable database solution such as Firebase Firestore for storing user data and tasks.
+  - Firebase Authentication for secure user login and registration.
+
+***Skill:*** Flutter | Provider | Firebase Auth | Cloud Firestore
+
+## Easy Billing .NET Web Application
+
+This project is a deliberate effort on my part to hone my coding skills and elevate the quality of my code. I am determined to organize the code logically and write clear and concise sentences that are easily comprehensible to all. The application was developed leveraging the .NET framework to create a functional and user-friendly billing system. The primary objective of this app is to help users manage bills and inventory efficiently. Below are the key features and functionalities of the application:
+
+### Features
+
+- **CRUD Functionality**
+  - Create, read, update, and delete user records and inventory items.
+  - Secure handling of data operations to ensure data integrity and reliability.
+
+- **Billing Management**
+  - Generate user bills with detailed itemization.
+  - Calculate totals, taxes, and discounts automatically.
+  - Generate and print invoices.
+
+- **Frontend**
+  - ASP.NET for building a robust and scalable web application.
+  - Using HTML, CSS, and JavaScript to create a responsive and interactive user interface.
+  - C# for server-side logic and integration with the .NET framework.
+
+- **Database**
+  - SQL Server for storing user records, bills, and inventory data.
+  - Efficient querying and data manipulation with SQL.
+
+ ***Skill:*** .NET (Web Application) | SQL database
