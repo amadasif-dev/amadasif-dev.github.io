@@ -22,7 +22,7 @@ Experienced Mobile Application Developer with hands-on expertise in **React Nati
 ### WORK EXPERIENCE
 
 **Freelance React Native Developer** | *Build to Trade (Australia-based Construction Industry Solution)*
-*07/2025 – Present*
+*07/2025 – 1/2026*
 *   Spearheaded the development of a cross-platform React Native application connecting builders with various trades (Electrical, Plumbing, etc.), streamlining project and trade management workflows.
 *   Engineered a real-time chat system using **Socket.IO** and REST APIs, supporting instant messaging and file attachments.
 *   Implemented complex workflows for quote submission, approvals, and status tracking with role-based security restrictions.
