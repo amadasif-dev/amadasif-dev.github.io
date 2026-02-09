@@ -1,115 +1,99 @@
+# AMAD ASIF
+**Mobile Application Developer | React Native | Flutter**
 
-# **Amad Asif**
-#### **Jr Software Engineer** 
- Email: **amadasif.ad200@gmail.com**  
- phone: **+92-302-2141630**     
- Languages: **English (conversational)**  
+📍 Gulistan e Johar, Karachi, Pakistan  
+📧 amadasif.ad20@gmail.com | 📱 +92-302-2141630  
+🔗 [LinkedIn/Portfolio Link]
 
- ### **Summary**  
-I am an experienced Software Engineer with strong programming skills and a keen interest in technology. I am seeking a position where I can contribute to the company's success and advance my career.
+### PROFESSIONAL SUMMARY
+Experienced Mobile Application Developer with hands-on expertise in **React Native** and **Flutter**, dedicated to delivering scalable and user-friendly applications across diverse domains such as banking, e-commerce, and construction. Skilled in transforming complex client requirements into innovative mobile solutions with a strong focus on performance, security (AES-256), and maintainability. Proficient in Agile methodologies, state management (Redux/Provider), and real-time data integration (Socket.IO/Firebase), with a proven track record of collaborating with international teams to ship high-quality products.
 
-### **Education**   
- **Bachelor in Computer Science**    
-    Iqra University 2019-2024   
- **Diploma of Associate Engineering**    
-    DAE in Electrical 2013-2015    
- **Matriculation**    
-    Karachi Board of Secondary Education 2010-2011 
+---
 
-### **Work Experience**   
+### TECHNICAL SKILLS
+*   **Mobile Development:** React Native, Flutter (Dart), Cross-Platform Mobile Development.
+*   **State Management & API:** Redux, Context API, Provider, RESTful APIs, Socket.IO, Axios.
+*   **Web & Backend:** .NET (ASP.NET), C#, AngularJS, HTML, CSS, JavaScript.
+*   **Databases & Cloud:** Firebase (Auth, Firestore, Realtime DB, Dynamic Links, FCM), SQL Server, SQLite.
+*   **Tools & Methodologies:** Git/GitHub, Agile/Scrum, JWT Authentication, Performance Debugging.
 
-### **Jr Software Engineer (React-Native)** 
-**Lunakware**
-As a React-Native developer at Lunakware, I have the opportunity to gather project requirements, create stunning mobile app front-ends, implement Rest APIs, Firebase FCM, and fix bugs. It's a challenging yet fulfilling role that allows me to push the boundaries of what's possible and make a real impact in the mobile app industry.
+---
 
-***Skill:*** React-Native | FCM | Cloud Firestore | Localization | Redux | Hooks | Rest APIs | Flutter
+### WORK EXPERIENCE
 
-# **Projects**
+**Freelance React Native Developer** | *Build to Trade (Australia-based Construction Industry Solution)*
+*07/2025 – Present*
+*   Spearheaded the development of a cross-platform React Native application connecting builders with various trades (Electrical, Plumbing, etc.), streamlining project and trade management workflows.
+*   Engineered a real-time chat system using **Socket.IO** and REST APIs, supporting instant messaging and file attachments.
+*   Implemented complex workflows for quote submission, approvals, and status tracking with role-based security restrictions.
+*   Designed a file sharing and PDF export system for seamless project document management.
+*   Integrated In-App Purchases (IAP) for secure transactions and **Firebase** for real-time push notifications on project updates.
 
-## **Anonymous Application using React Native**
-This app offers users a platform to create posts and receive anonymous responses from their friends. Users have the freedom to create posts on any topic of their choice and share them with their friends. The anonymity feature ensures that users can receive honest feedback without bias or fear of judgment, while also maintaining privacy and confidentiality. The app prioritizes protecting the user's identity and ensures that it remains undisclosed to the respondents, allowing users to express their thoughts and opinions freely and without hesitation.
+**Software Engineer (React Native)** | *International Consulting Associates Pvt Limited (IConsult)*
+*01/2025 – 07/2025*
+*   Developed core secure banking features for the **Digi Internet Banking Solution**, including Inter-Bank Fund Transfer (IBFT), standard transfers, and mobile top-ups, delivering a smooth and intuitive UI.
+*   Implemented high-level **AES-256 encryption** for sensitive user details to ensure compliance with financial security standards and data protection regulations.
+*   Utilized **Redux** and **Axios** for robust state management and seamless backend communication.
+*   Collaborated with UI/UX designers to optimize interface performance and participated in Agile sprints to deliver high-quality code within strict deadlines.
 
-***Skill:*** React Native | Firebase | Firebase Dynamic Links| RealTime Database | Cloud Firestore | Firebase Auth
+**Junior React Native Developer** | *ITSec Pvt Ltd (LawSyst Lite - UK-Product)*
+*03/2025 – 10/2025*
+*   Contributed to the development of **LawSyst Lite**, a mobile application for the life assurance and legal industries, within an ISO-certified and Microsoft Partner environment.
+*   Architected and implemented **offline-first functionality**, allowing users to fill out forms without an internet connection. The system saves forms locally as drafts and automatically syncs data to the database once connectivity is restored.
+*   Utilized Redux for efficient state management and Axios for API integration, ensuring seamless data flow and high application stability in low-bandwidth environments.
 
-## **E-Commerce Application using React Native**
-This application was developed leveraging the React Native framework to enable robust E-commerce functionalities. The primary objective of this app is to provide users with a seamless shopping experience. Below are the key features and functionalities of the application.
-### Features
-- **Product Catalog Browsing**
-    - Users can browse through a comprehensive catalog of products.
-    - Each product listing includes images, descriptions, prices, and other relevant details.
-      
-- **Product Selection**
-    - Users can click on individual products to view detailed information.
-    - Options to select product variations (such as size and color) if available.
-      
-- **Shopping Cart Management**
-    - Users can add products to their shopping cart with a single click.
-    - View and manage items in the cart, including updating quantities or removing items.
-    - State Management with Redux: Leveraging Redux for efficient and centralized state management of the shopping cart. This ensures consistent updates and synchronization of cart data         across different components of the application.
-      
-- **User Authentication**
-    - Secure user registration and login functionalities.
-    - User accounts to save order history and personal information for a personalized experience. 
+**Software Engineer (React Native)** | *Tech Accuracy (Pepsi Cola Project)*
+*07/2024 – 03/2025*
+*   Developed and maintained high-impact mobile applications for **Pepsi Cola** using React Native and Flutter, ensuring seamless cross-platform performance.
+*   Led client-facing activities, including conducting in-person meetings, providing project demos, and gathering technical requirements.
+*   Designed a responsive admin dashboard using **AngularJS** featuring real-time data visualization, modular architecture, and **JWT-based authentication**.
 
-### Technical Stack
+**React Native Developer** | *Lunakware*
+*   Gathered project requirements and created stunning mobile app front-ends.
+*   Implemented **Rest APIs**, **Firebase FCM** (Cloud Messaging), and Localization features.
+*   Focused on bug fixing and pushing the boundaries of mobile app performance.
 
-- **Frontend**
-  - React Native for building cross-platform mobile applications.
-  - Redux for state management to ensure a responsive and seamless user experience.
-  
-- **Backend**
-  - Integration with RESTful APIs to handle data and business logic.
-  - **HTTP Requests with Axios**: Utilizing Axios for making HTTP requests to the backend, ensuring efficient communication between the frontend and the server.
-  
-- **Database**
-  - Use of a scalable database Firebase, Firebase Store, and Firebase Auth for storing user data, product catalog, and orders.
+---
 
-***Skill:*** React Native | Firebase | Firebase Dynamic Links| RealTime Database | Cloud Firestore | Firebase Auth
+### KEY PROJECTS
 
-## TODO App using Flutter
+**Anonymous Application (React Native)**
+*   A social platform allowing users to create posts and receive anonymous feedback from friends while maintaining privacy.
+*   **Tech Stack:** React Native, Firebase, Firebase Dynamic Links, Realtime Database, Cloud Firestore, Firebase Auth.
 
-This project is a deliberate effort on my part to hone my coding skills and elevate the quality of my code. I am determined to organize the code logically and write clear and concise sentences that are easily comprehensible to all. The application was developed leveraging the Flutter framework to create a functional and user-friendly TODO app. The primary objective of this app is to help users manage their tasks efficiently.
+**E-Commerce Application (React Native)**
+*   A fully-featured shopping app enabling product browsing, cart management, and secure checkout.
+*   **Key Features:** Product catalog with variations, Shopping Cart with **Redux** state management, User Authentication, and Order History.
+*   **Tech Stack:** React Native, Redux, Axios, Firebase (Auth & Firestore).
 
-### Features
+**TODO App (Flutter)**
+*   A functional task management application designed to improve code organization and state handling.
+*   **Key Features:** Task creation with descriptions, clean UI, and responsive data handling.
+*   **Tech Stack:** Flutter, **Provider** (State Management), Firebase Auth, Cloud Firestore.
 
-- **Task Creation**
-  - Users can add new tasks with a title and optional description.
-  - Easy-to-use interface for quick task entry.
+**Easy Billing (.NET Web Application)**
+*   A billing and inventory management system for efficient business operations.
+*   **Key Features:** CRUD functionality for inventory, automated bill generation (taxes/discounts), and invoice printing.
+*   **Tech Stack:** ASP.NET, C#, HTML, CSS, JavaScript, SQL Server.
 
-### Technical Stack
+---
 
-- **Frontend**
-  - Flutter for building cross-platform mobile applications.
-  - Provider for state management to ensure a responsive and seamless user experience.
+### EDUCATION
 
-- **Database**
-  - Use of a scalable database solution such as Firebase Firestore for storing user data and tasks.
-  - Firebase Authentication for secure user login and registration.
+**Master of Science (MS), Computer Science**
+*Iqra University, Karachi* | *March 2025 – Present*
 
-***Skill:*** Flutter | Provider | Firebase Auth | Cloud Firestore
+**Bachelor of Science (BS), Computer Science**
+*Iqra University, Karachi* | *June 2019 – Aug 2024*
 
-## Easy Billing .NET Web Application
+**Diploma of Associate Engineering (DAE), Electrical**
+*Jinnah Polytechnic Institute, Karachi* | *June 2012 – Sep 2015*
 
-This project is a deliberate effort on my part to hone my coding skills and elevate the quality of my code. I am determined to organize the code logically and write clear and concise sentences that are easily comprehensible to all. The application was developed leveraging the .NET framework to create a functional and user-friendly billing system. The primary objective of this app is to help users manage bills and inventory efficiently. Below are the key features and functionalities of the application:
+**Matriculation**
+*Karachi Board of Secondary Education* | *2010 – 2011*
 
-### Features
+---
 
-- **CRUD Functionality**
-  - Create, read, update, and delete user records and inventory items.
-  - Secure handling of data operations to ensure data integrity and reliability.
-
-- **Billing Management**
-  - Generate user bills with detailed itemization.
-  - Calculate totals, taxes, and discounts automatically.
-  - Generate and print invoices.
-
-- **Frontend**
-  - ASP.NET for building a robust and scalable web application.
-  - Using HTML, CSS, and JavaScript to create a responsive and interactive user interface.
-  - C# for server-side logic and integration with the .NET framework.
-
-- **Database**
-  - SQL Server for storing user records, bills, and inventory data.
-  - Efficient querying and data manipulation with SQL.
-
- ***Skill:*** .NET (Web Application) | SQL database
+### LANGUAGES
+*   **English:** Conversational
+*   **Urdu:** Native
