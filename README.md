@@ -1,10 +1,11 @@
 # AMAD ASIF
 **Mobile Application Developer | React Native | Flutter**
 
-Gulistan e Johar, Karachi, Pakistan  
-amadasif.ad20@gmail.com | +92-302-2141630   
-**LinkedIn:**https://www.linkedin.com/in/amad-asif-53507b1b9/
-**Portfolio:**https://amad-asif-mobile-craft.vercel.app/
+Gulistan e Johar, Karachi, Pakistan
+amadasif.ad20@gmail.com | +92-302-2141630
+LinkedIn: https://www.linkedin.com/in/amad-asif-53507b1b9/
+Portfolio: https://amad-asif-mobile-craft.vercel.app/
+
 ### PROFESSIONAL SUMMARY
 Experienced Mobile Application Developer with hands-on expertise in **React Native** and **Flutter**, dedicated to delivering scalable and user-friendly applications across diverse domains such as banking, e-commerce, and construction. Skilled in transforming complex client requirements into innovative mobile solutions with a strong focus on performance, security (AES-256), and maintainability. Proficient in Agile methodologies, state management (Redux/Provider), and real-time data integration (Socket.IO/Firebase), with a proven track record of collaborating with international teams to ship high-quality products.
 
@@ -22,7 +23,7 @@ Experienced Mobile Application Developer with hands-on expertise in **React Nati
 ### WORK EXPERIENCE
 
 **Freelance React Native Developer** | *Build to Trade (Australia-based Construction Industry Solution)*
-*07/2025 – 1/2026*
+*07/2025 – Present*
 *   Spearheaded the development of a cross-platform React Native application connecting builders with various trades (Electrical, Plumbing, etc.), streamlining project and trade management workflows.
 *   Engineered a real-time chat system using **Socket.IO** and REST APIs, supporting instant messaging and file attachments.
 *   Implemented complex workflows for quote submission, approvals, and status tracking with role-based security restrictions.
@@ -97,3 +98,5 @@ Experienced Mobile Application Developer with hands-on expertise in **React Nati
 ### LANGUAGES
 *   **English:** Conversational
 *   **Urdu:** Native
+```Here is the updated complete Markdown code with your **LinkedIn** and **Portfolio** links added and formatted to be clickable.
+
