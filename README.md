@@ -3,7 +3,7 @@
 
 Gulistan e Johar, Karachi, Pakistan  
 amadasif.ad20@gmail.com | +92-302-2141630  
-[https://www.linkedin.com/in/amad-asif-53507b1b9/https://amad-asif-mobile-dev-portfolio.vercel.app/]
+https://www.linkedin.com/in/amad-asif-53507b1b9/https://amad-asif-mobile-dev-portfolio.vercel.app/
 
 ### PROFESSIONAL SUMMARY
 Experienced Mobile Application Developer with hands-on expertise in **React Native** and **Flutter**, dedicated to delivering scalable and user-friendly applications across diverse domains such as banking, e-commerce, and construction. Skilled in transforming complex client requirements into innovative mobile solutions with a strong focus on performance, security (AES-256), and maintainability. Proficient in Agile methodologies, state management (Redux/Provider), and real-time data integration (Socket.IO/Firebase), with a proven track record of collaborating with international teams to ship high-quality products.
