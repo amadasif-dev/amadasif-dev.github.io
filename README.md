@@ -1,102 +1,124 @@
-# AMAD ASIF
-**Mobile Application Developer | React Native | Flutter**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> Hi there, I'm Amad Asif!
 
-Gulistan e Johar, Karachi, Pakistan
-amadasif.ad20@gmail.com | +92-302-2141630
-LinkedIn: https://www.linkedin.com/in/amad-asif-53507b1b9/
-Portfolio: https://amad-asif-mobile-craft.vercel.app/
+<div align="center">
 
-### PROFESSIONAL SUMMARY
-Experienced Mobile Application Developer with hands-on expertise in **React Native** and **Flutter**, dedicated to delivering scalable and user-friendly applications across diverse domains such as banking, e-commerce, and construction. Skilled in transforming complex client requirements into innovative mobile solutions with a strong focus on performance, security (AES-256), and maintainability. Proficient in Agile methodologies, state management (Redux/Provider), and real-time data integration (Socket.IO/Firebase), with a proven track record of collaborating with international teams to ship high-quality products.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
----
+### **Software Engineer — Cross-Platform Mobile Engineer**
 
-### TECHNICAL SKILLS
-*   **Mobile Development:** React Native, Flutter (Dart), Cross-Platform Mobile Development.
-*   **State Management & API:** Redux, Context API, Provider, RESTful APIs, Socket.IO, Axios.
-*   **Web & Backend:** .NET (ASP.NET), C#, AngularJS, HTML, CSS, JavaScript.
-*   **Databases & Cloud:** Firebase (Auth, Firestore, Realtime DB, Dynamic Links, FCM), SQL Server, SQLite.
-*   **Tools & Methodologies:** Git/GitHub, Agile/Scrum, JWT Authentication, Performance Debugging.
+*React Native | TypeScript | Node.js | Flutter Specialist*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amad-asif-53507b1b9/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amadasif.ad20@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923022141630)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amadasif-dev)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2980B9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 
-### WORK EXPERIENCE
+<br/>
 
-**Freelance React Native Developer** | *Build to Trade (Australia-based Construction Industry Solution)*
-*07/2025 – Present*
-*   Spearheaded the development of a cross-platform React Native application connecting builders with various trades (Electrical, Plumbing, etc.), streamlining project and trade management workflows.
-*   Engineered a real-time chat system using **Socket.IO** and REST APIs, supporting instant messaging and file attachments.
-*   Implemented complex workflows for quote submission, approvals, and status tracking with role-based security restrictions.
-*   Designed a file sharing and PDF export system for seamless project document management.
-*   Integrated In-App Purchases (IAP) for secure transactions and **Firebase** for real-time push notifications on project updates.
+[![Profile Views](https://komarev.com/ghpvc/?username=amadasif-dev&style=flat-square&color=6c5ce7)](https://github.com/amadasif-dev)
 
-**Software Engineer (React Native)** | *International Consulting Associates Pvt Limited (IConsult)*
-*01/2025 – 07/2025*
-*   Developed core secure banking features for the **Digi Internet Banking Solution**, including Inter-Bank Fund Transfer (IBFT), standard transfers, and mobile top-ups, delivering a smooth and intuitive UI.
-*   Implemented high-level **AES-256 encryption** for sensitive user details to ensure compliance with financial security standards and data protection regulations.
-*   Utilized **Redux** and **Axios** for robust state management and seamless backend communication.
-*   Collaborated with UI/UX designers to optimize interface performance and participated in Agile sprints to deliver high-quality code within strict deadlines.
+</div>
 
-**Junior React Native Developer** | *ITSec Pvt Ltd (LawSyst Lite - UK-Product)*
-*03/2025 – 10/2025*
-*   Contributed to the development of **LawSyst Lite**, a mobile application for the life assurance and legal industries, within an ISO-certified and Microsoft Partner environment.
-*   Architected and implemented **offline-first functionality**, allowing users to fill out forms without an internet connection. The system saves forms locally as drafts and automatically syncs data to the database once connectivity is restored.
-*   Utilized Redux for efficient state management and Axios for API integration, ensuring seamless data flow and high application stability in low-bandwidth environments.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-**Software Engineer (React Native)** | *Tech Accuracy (Pepsi Cola Project)*
-*07/2024 – 03/2025*
-*   Developed and maintained high-impact mobile applications for **Pepsi Cola** using React Native and Flutter, ensuring seamless cross-platform performance.
-*   Led client-facing activities, including conducting in-person meetings, providing project demos, and gathering technical requirements.
-*   Designed a responsive admin dashboard using **AngularJS** featuring real-time data visualization, modular architecture, and **JWT-based authentication**.
-
-**React Native Developer** | *Lunakware*
-*   Gathered project requirements and created stunning mobile app front-ends.
-*   Implemented **Rest APIs**, **Firebase FCM** (Cloud Messaging), and Localization features.
-*   Focused on bug fixing and pushing the boundaries of mobile app performance.
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freelance.gif" width="450px" alt="Coding GIF" />
+</div>
 
 ---
 
-### KEY PROJECTS
+### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Summary**
 
-**Anonymous Application (React Native)**
-*   A social platform allowing users to create posts and receive anonymous feedback from friends while maintaining privacy.
-*   **Tech Stack:** React Native, Firebase, Firebase Dynamic Links, Realtime Database, Cloud Firestore, Firebase Auth.
-
-**E-Commerce Application (React Native)**
-*   A fully-featured shopping app enabling product browsing, cart management, and secure checkout.
-*   **Key Features:** Product catalog with variations, Shopping Cart with **Redux** state management, User Authentication, and Order History.
-*   **Tech Stack:** React Native, Redux, Axios, Firebase (Auth & Firestore).
-
-**TODO App (Flutter)**
-*   A functional task management application designed to improve code organization and state handling.
-*   **Key Features:** Task creation with descriptions, clean UI, and responsive data handling.
-*   **Tech Stack:** Flutter, **Provider** (State Management), Firebase Auth, Cloud Firestore.
-
-**Easy Billing (.NET Web Application)**
-*   A billing and inventory management system for efficient business operations.
-*   **Key Features:** CRUD functionality for inventory, automated bill generation (taxes/discounts), and invoice printing.
-*   **Tech Stack:** ASP.NET, C#, HTML, CSS, JavaScript, SQL Server.
+Results-driven Mobile Software Engineer with **3+ years of experience** specializing in cross-platform development using **React Native, TypeScript, and Node.js**. Successfully architected and deployed multiple production applications to the App Store and Google Play across fintech, logistics, and marketplace domains. Proven expertise in building secure, scalable features including real-time chat, map-based tracking, offline-first synchronization, and encrypted payment gateways. Adept at collaborating within Agile teams to deliver high-performance solutions for international clients.
 
 ---
 
-### EDUCATION
+### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Skills**
 
-**Master of Science (MS), Computer Science**
-*Iqra University, Karachi* | *March 2025 – Present*
-
-**Bachelor of Science (BS), Computer Science**
-*Iqra University, Karachi* | *June 2019 – Aug 2024*
-
-**Diploma of Associate Engineering (DAE), Electrical**
-*Jinnah Polytechnic Institute, Karachi* | *June 2012 – Sep 2015*
-
-**Matriculation**
-*Karachi Board of Secondary Education* | *2010 – 2011*
+* **Languages:** JavaScript (ES6+), TypeScript, Dart
+* **Mobile & Animation:** React Native, Flutter, React Hooks, React Navigation, Responsive UI, Interactive Micro-animations
+* **State Management:** Redux, Redux Toolkit, Redux Persist, Context API
+* **Backend & APIs:** REST APIs, Node.js, Socket.IO, Axios, Firebase (Firestore, Realtime DB, Cloud Functions), FCM
+* **Security & Auth:** AES-256 Encryption, JWT, Secure Authentication, Session Management
+* **Payments:** Apple Pay, Google Pay, In-App Purchases (IAP)
+* **Databases:** Cloud Firestore, Firebase Storage, SQLite, SQL Server
+* **DevOps & Publishing:** App Store Connect, Google Play Console, CI/CD, TestFlight, Git/GitHub
+* **Tools:** Xcode, Android Studio, Postman, Agile/Scrum
 
 ---
 
-### LANGUAGES
-*   **English:** Conversational
-*   **Urdu:** Native
-```Here is the updated complete Markdown code with your **LinkedIn** and **Portfolio** links added and formatted to be clickable.
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-75c6d328-765f-402f-b40b-74b83b483e58.gif" width="30px" /> **Work Experience**
 
+#### **Graphica Pro Artistry** — *Mobile Application Developer*
+**Jul 2025 – Jun 2026 | Melbourne, Australia (Remote)**
+* Architected and deployed high-performance, cross-platform React Native applications for iOS and Android, focusing on scalability, maintainability, performance, and reliable production releases.
+* Spearheaded the end-to-end development cycle, from UI collaboration to debugging, ensuring the timely delivery of production-ready features.
+* Optimized application performance by minimizing unnecessary render cycles, improving component efficiency, and implementing responsive UI patterns to deliver faster and smoother user experiences.
+* Developed and integrated scalable Node.js/Express REST API endpoints, facilitating seamless data synchronization between mobile clients and backend servers.
+
+#### **Tech Accuracy Delivery App (Pepsi Cola)** — *Software Engineer*
+**Aug 2024 – Jun 2025 | Full-time**
+* Developed and maintained a delivery management app for Pepsi-Cola using React Native and Flutter for field operations.
+* Built a secure companion AngularJS administrative dashboard featuring real-time data visualization, JWT authentication, and role-based access control (RBAC).
+* Led client-facing activities: in-person demos, requirement gathering, and expectation alignment.
+* Implemented offline-first functionality for unstable-network field conditions — orders/data captured offline and auto-synced on reconnect for reliable field operations.
+* Oversaw bug resolution and mentored team members, improving team productivity.
+* Prepared project estimates and contributed to planning for timely delivery.
+
+#### **Lunakware Solutions** — *Mobile Application Developer*
+**Jun 2023 – Jul 2024 | Full-time**
+* Developed and maintained cross-platform iOS/Android apps in React Native.
+* Built scalable, high-performance solutions focused on UX, real-time communication, payments, and secure authentication.
+* Collaborated with designers, backend developers, and stakeholders to ship production-ready apps.
+* Handled App Store and Google Play deployments, Firebase services, push notifications, IAP, and REST APIs.
+
+---
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284135-21d74a9b-13cb-4e31-8935-43ea56093cb7.gif" width="30px" /> **Featured Projects**
+
+#### 🚘 **Midnight Express TNC — ARC (Anywhere Rental Car)**
+> **Role:** Mobile App Developer (React Native) | **Location:** Freelance United States (Remote)
+
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/-Stripe-626FD2?style=flat-square&logo=stripe&logoColor=white)
+
+* Developed "ARC", a cross-platform luxury mobility application combining chauffeur-driven bookings and self-drive smart vehicle rentals.
+* Engineered a map-first booking flow integrating the **Smartcar API**, enabling users to lock/unlock vehicles remotely, calculate multi-leg journey routes, and view real-time locations.
+* Implemented secure Firebase Authentication (OTP, Social Login) and Stripe payment processing for seamless, encrypted ride transactions.
+
+#### 🌾 **FAMASERV**
+> **Role:** Mobile App Developer | **Location:** Freelance New Zealand (Remote)
+
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Apple Pay](https://img.shields.io/badge/-Apple%20Pay-000000?style=flat-square&logo=applepay&logoColor=white)
+![Google Pay](https://img.shields.io/badge/-Google%20Pay-4285F4?style=flat-square&logo=googlepay&logoColor=white)
+
+* Built a service marketplace platform in React Native using Context API and Axios.
+* Built real-time in-app chat on a Node.js Socket.IO server with Firebase Cloud Messaging push notifications.
+* Integrated Firebase Cloud Functions (Node.js) for backend event handling and notifications.
+* Integrated Apple Pay and Google Pay for seamless transactions.
+* Added i18Next localization supporting 5 languages for a global user base.
+* **Published:** Published on the iOS App Store.
+
+#### 🏗️ **Build2trade**
+> **Role:** React Native Developer | **Location:** Freelance Australia (Remote)
+
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+* Built a cross-platform app connecting builders with tradespeople across electrical, plumbing, and other trades.
+* Engineered a real-time messaging system on a Node.js + Socket.IO backend with file attachment support.
+* Implemented quote submission/approval workflows backed by REST APIs and role-based access control.
+* Added PDF export for project documents and Firebase push notifications with IAP for premium features.
+* **Published:** Published on both the iOS App Store and Google Play.
+
+---
+
+### 🎓 **Education**
+
+* **Master of Science (MS), Computer Science** — Iqra University, Karachi
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
